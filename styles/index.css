@@ -22,24 +22,12 @@ section,
     display: inline-block;
 }
 
-.link-home {
-    margin-left: 98px;
-}
-
-.link-about,
-.link-blog,
-.link-contact {
-    margin-left: 40px;
-}
-
 a {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
 }
 
-.header-signin {
-    margin-left: 750px;
-}
+
 
 .header-btn {
     margin-left: 40px;
