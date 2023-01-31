@@ -1,5 +1,4 @@
 .logo {
-
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -16,18 +15,22 @@
     color: #824FF1;
 }
 
-nav,
+.nav,
 section,
 .signing {
     display: inline-block;
+}
+
+
+li {
+    display: inline-block;
+    float: left;
 }
 
 a {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
 }
-
-
 
 .header-btn {
     margin-left: 40px;
